@@ -11,3 +11,18 @@ console.log('Is Published:', isPublished)
 const rating=4.5;
 console.log('Course Rating:', rating)
 
+// Conditionl Operators
+
+if (rating>=4.5){
+    console.log('High Rating');
+} else {
+    console.log('Low Rating');
+}
+
+
+let course='JavaScript for Beginners';
+console.log('Course Title:', course);
+
+// Loops
+
+
